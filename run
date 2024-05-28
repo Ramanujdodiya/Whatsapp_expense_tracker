@@ -1,0 +1,6 @@
+1) start the virtual environment
+2)uvicorn app.main:server --reload
+3)ngrok http 8000
+change the twilio console links:
+1)https://console.twilio.com/us1/develop/sms/try-it-out/whatsapp-learn?frameUrl=/console/sms/whatsapp/learn?x-target-region%3Dus1
+2)https://console.twilio.com/us1/develop/phone-numbers/manage/incoming/PN8505e29172e9e090875eda584f5ca965/configure
